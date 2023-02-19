@@ -10,6 +10,8 @@ import Combine
 
 public class RequestHandler: RequestProtocol {
    
+    public init () { }
+    
     
     public var requestTimeOut: Float = 30
     
